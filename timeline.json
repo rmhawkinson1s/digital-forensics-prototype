@@ -1,0 +1,74 @@
+[
+  {
+    "ts_utc": "2026-02-20T06:52:53Z",
+    "source": "filesystem",
+    "artifact": "test.txt",
+    "event_type": "mtime",
+    "details": "File modified time",
+    "extra": {}
+  },
+  {
+    "ts_utc": "2026-02-21T22:55:03.656824Z",
+    "source": "filesystem",
+    "artifact": "test.txt",
+    "event_type": "ctime",
+    "details": "File metadata change time (or creation time on some OS)",
+    "extra": {}
+  },
+  {
+    "ts_utc": "2026-02-21T22:55:04.039565Z",
+    "source": "filesystem",
+    "artifact": "test.txt",
+    "event_type": "atime",
+    "details": "File last access time",
+    "extra": {}
+  },
+  {
+    "ts_utc": "2026-02-21T23:18:18.817583Z",
+    "source": "filesystem",
+    "artifact": "photo.jpeg",
+    "event_type": "mtime",
+    "details": "File modified time",
+    "extra": {}
+  },
+  {
+    "ts_utc": "2026-02-21T23:23:58.094101Z",
+    "source": "filesystem",
+    "artifact": "photo.jpeg",
+    "event_type": "ctime",
+    "details": "File metadata change time (or creation time on some OS)",
+    "extra": {}
+  },
+  {
+    "ts_utc": "2026-02-22T00:17:54.791240Z",
+    "source": "filesystem",
+    "artifact": "movement_log.gpx",
+    "event_type": "mtime",
+    "details": "File modified time",
+    "extra": {}
+  },
+  {
+    "ts_utc": "2026-02-22T00:26:48.396747Z",
+    "source": "filesystem",
+    "artifact": "movement_log.gpx",
+    "event_type": "ctime",
+    "details": "File metadata change time (or creation time on some OS)",
+    "extra": {}
+  },
+  {
+    "ts_utc": "2026-02-22T00:26:50.751797Z",
+    "source": "filesystem",
+    "artifact": "movement_log.gpx",
+    "event_type": "atime",
+    "details": "File last access time",
+    "extra": {}
+  },
+  {
+    "ts_utc": "2026-02-23T01:38:04.172639Z",
+    "source": "filesystem",
+    "artifact": "photo.jpeg",
+    "event_type": "atime",
+    "details": "File last access time",
+    "extra": {}
+  }
+]

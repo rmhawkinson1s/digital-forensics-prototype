@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2026-02-21T21:27:27.660281Z",
+    "action": "SYSTEM_STARTED",
+    "details": {
+      "note": "Prototype started"
+    }
+  },
+  {
+    "timestamp": "2026-02-21T21:27:27.660756Z",
+    "action": "INGEST",
+    "details": {
+      "source": "sample_input.pcap",
+      "mode": "replay"
+    }
+  },
+  {
+    "timestamp": "2026-02-21T21:27:27.660961Z",
+    "action": "DETECTION",
+    "details": {
+      "alerts_generated": 3,
+      "threshold": 0.8
+    }
+  },
+  {
+    "timestamp": "2026-02-21T21:27:27.661120Z",
+    "action": "EVIDENCE_HASHED",
+    "details": {
+      "file": "sample_input.pcap",
+      "sha256": "demo-only"
+    }
+  },
+  {
+    "timestamp": "2026-02-21T21:27:27.661284Z",
+    "action": "RUN_COMPLETED",
+    "details": {
+      "status": "success"
+    }
+  }
+]

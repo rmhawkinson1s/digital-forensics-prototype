@@ -1,0 +1,10 @@
+ts_utc,source,artifact,event_type,details,extra
+2026-02-20T06:52:53Z,filesystem,test.txt,mtime,File modified time,{}
+2026-02-21T22:55:03.656824Z,filesystem,test.txt,ctime,File metadata change time (or creation time on some OS),{}
+2026-02-21T22:55:04.039565Z,filesystem,test.txt,atime,File last access time,{}
+2026-02-21T23:18:18.817583Z,filesystem,photo.jpeg,mtime,File modified time,{}
+2026-02-21T23:23:58.094101Z,filesystem,photo.jpeg,ctime,File metadata change time (or creation time on some OS),{}
+2026-02-22T00:17:54.791240Z,filesystem,movement_log.gpx,mtime,File modified time,{}
+2026-02-22T00:26:48.396747Z,filesystem,movement_log.gpx,ctime,File metadata change time (or creation time on some OS),{}
+2026-02-22T00:26:50.751797Z,filesystem,movement_log.gpx,atime,File last access time,{}
+2026-02-23T01:38:04.172639Z,filesystem,photo.jpeg,atime,File last access time,{}
